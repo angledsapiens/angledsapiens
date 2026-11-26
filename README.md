@@ -1,6 +1,6 @@
-### Hi, I'm Angled Sapiens 👋
+## Angled Sapiens
 
-I build open-source tools for teams running AI in production: the boring, load-bearing parts that break quietly when something upstream changes.
+I build tools that catch what breaks quietly in AI systems: retired models, swapped models and changed behaviour.
 
 ## modelshift: know what breaks before your LLM is switched off
 
